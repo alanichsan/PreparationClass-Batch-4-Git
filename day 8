@@ -1,0 +1,11 @@
+Jabarkan dan jelaskan langkah-langkah untuk generate SSH Key:
+    1. pertama masuk cd ./.ssh
+    2. Membuat Key SSH dengan menggunakan ssh-keygen
+    3. Jalankan SSH Angen dan Load SSH Key ps -e | grep [s]sh-agent
+    4. kalau belum berjalan ssh-agent /bin/bash 
+    5. Ambil kunci publik yang sudah anda buat menggunakan cat ~/.ssh/id_anda.pub  copy semua teks yang ditampilkan.
+    6. Lalu masuk ke  Settings>SSH and GPG Keys pada github
+    7. Ketik perintah berikut untuk menguji konektivitas SSH ke Github ssh -T git@github.com 
+    8. lalu ganti remote dari yang sebelumnya git remote set-url origin git@github.com 
+    9. cara check remote git remote -v 
+    10. terakhir git push -u origin main 
