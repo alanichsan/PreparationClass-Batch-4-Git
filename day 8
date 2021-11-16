@@ -9,3 +9,4 @@ Jabarkan dan jelaskan masing-masing Extensions (Sesuai Stack):
     7. Helium Icon Theme : menyediakan banyak ikon berdasarkan Desain Bahan untuk Kode Visual Studio termasuk DSL
     8. Github Theme : Untuk mengganti tema di VS code.
     9. Awesome Flutter Snippets : kumpulan kelas dan metode Flutter yang umum digunakan. Ini meningkatkan kecepatan pengembangan Anda dengan menghilangkan sebagian besar kode boilerplate yang terkait dengan pembuatan widget. Widget seperti StreamBuilder dan SingleChildScrollView dapat dibuat dengan mengetikkan masing-masing pintasan streamBldr dan singleChildSV.
+    10. Live Server : Luncurkan server pengembangan lokal dengan fitur reload langsung untuk halaman statis & dinamis.
