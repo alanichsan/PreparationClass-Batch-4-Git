@@ -1,11 +1,11 @@
-Jabarkan dan jelaskan langkah-langkah untuk generate SSH Key:
-    1. pertama masuk cd ./.ssh
-    2. Membuat Key SSH dengan menggunakan ssh-keygen
-    3. Jalankan SSH Angen dan Load SSH Key ps -e | grep [s]sh-agent
-    4. kalau belum berjalan ssh-agent /bin/bash 
-    5. Ambil kunci publik yang sudah anda buat menggunakan cat ~/.ssh/id_anda.pub  copy semua teks yang ditampilkan.
-    6. Lalu masuk ke  Settings>SSH and GPG Keys pada github
-    7. Ketik perintah berikut untuk menguji konektivitas SSH ke Github ssh -T git@github.com 
-    8. lalu ganti remote dari yang sebelumnya git remote set-url origin git@github.com 
-    9. cara check remote git remote -v 
-    10. terakhir git push -u origin main 
+Jabarkan dan jelaskan masing-masing Extensions (Sesuai Stack):
+
+    1. Dart : untuk bahasa pemrograman Dart, dan menyediakan alat untuk secara efektif mengedit, memfaktorkan ulang, menjalankan, dan memuat ulang aplikasi seluler Flutter, dan aplikasi web AngularDart.
+    2. Flutter : untuk mengedit, memfaktorkan ulang, menjalankan, dan memuat ulang aplikasi seluler Flutter secara efektif, serta dukungan untuk bahasa pemrograman Dart.
+    3. Auto Close Tag : Tambahkan tag penutup HTML/XML secara otomatis, sama seperti Visual Studio IDE atau Sublime Text.
+    4. Flutter Widget Snippets : Kumpulan cuplikan Flutter dan Dart yang bermanfaat untuk pengembangan Flutter sehari-hari.
+    5. Flutter Color : untuk membantu Anda bekerja dengan ARGB Color dalam VS Code, untuk proyek apa pun. Anda dapat dengan mudah menggunakannya. Ini akan secara otomatis mengonversi Kode Warna ARGB Anda dan menunjukkan kepada Anda kotak warna. Ukuran kotak warna diatur oleh Kode VS dan kami tidak dapat mengubahnya.
+    6. Material Icon Theme : mengubah icon IDE VS code menjadi colorfull
+    7. Helium Icon Theme : menyediakan banyak ikon berdasarkan Desain Bahan untuk Kode Visual Studio termasuk DSL
+    8. Github Theme : Untuk mengganti tema di VS code.
+    9. Awesome Flutter Snippets : kumpulan kelas dan metode Flutter yang umum digunakan. Ini meningkatkan kecepatan pengembangan Anda dengan menghilangkan sebagian besar kode boilerplate yang terkait dengan pembuatan widget. Widget seperti StreamBuilder dan SingleChildScrollView dapat dibuat dengan mengetikkan masing-masing pintasan streamBldr dan singleChildSV.
