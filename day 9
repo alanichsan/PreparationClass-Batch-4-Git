@@ -1,16 +1,38 @@
-Jabarkan dan jelaskan masing-masing Shortcut yang sering dipakai:
-    1. CTRL + P : Untuk mencarian file.
-    2. CTRL + K CTRL + O : Membuka Folder
-    3. CTRL + O : Membuka file
-    4. CTRL + SHIFT + N : Membuat Bilah Baru
-    5. CTRL + ` : Membuka Terminal
-    6. CTRL + SPACE : Menampilkan Sugesti
-    7. CTRL + SHIFT + R : Menampilkan Refactory
-    8. CTRL + SHIFT + R : Mengaktifkan Auto save
-    10. F5 : Start Debugging
-    11. CTRL + F : Untuk melakukan pencarian pada file.
-    12. CTRL + / : Untuk melakukan comment.
+Perbedaan Trello vs Jira vs Youtrack :
 
+    A. Trello
+        - Kelebihan Trello
+            1. Penggunaannya fleksibel. Kamu bisa mengaksesnya melalui smartphone maupun desktop, dimanapun dan kapanpun.
+            2. Tak perlu menggunakan sticky notes lagi. Sticky notes di desktop terlihat tidak rapi dan kurang efisien, dengan adanya aplikasi trello kamu tak perlu menggunakan sticky notes lagi.
+            3. Mengetahui kapan deadline akan datang. Karena sudah d setting sedemikian rupa, tak perlu khawatir akan melewatkan sebuah proyek.
+            4. Checklist dalam satu tempat. Fitur ini akan membuat penggunanya mengetahui semua to do list pekerjaan dalam satu Cards saja.
+
+        - Kekurangan Trello
+            1. Harus selalu terkoneksi dengan internet.
+            2. Tidak bisa melakukan pengubahan atau edit komentar.
+            3. Aplikasi gratis hanya dalam versi trialnya, sehingga untuk seterusnya harus membayar.    
+            4.Jika tugas atau proyek semakin banyak, maka pengaturan tugas sedikit sulit dilakukan.
+    
+    B. Jira
+        - Kelebihan Trello
+            1. adanya template untuk mempermudah pemberian tugas
+            2. dukungan komunitas dan pelatihan yang mumpuni
+            3. mudah digunakan dan intuitif
+
+        - Kekurangan Trello
+            1. dukungan penggunaan website yang lambat
+            2. masih adanya eror pada fitur-fitur baru
+            3. harga yang kurang kompetitif
+
+    C. Youtrack
+        - Kelebihan Trello
+            1. mudah diatur. Sprint itu mudah tetapi sangat sederhana. Versi berfungsi di seluruh proyek, jadi jika Anda murni tim perangkat lunak, itu berfungsi dengan baik
+            2. bahasa kueri khusus dengan intellisense adalah keuntungan.
+            3. Berkinerja baik jika diatur dengan benar.
+            4. Tidak ada sistem terpisah untuk pengguna. Semua pengguna dapat memiliki akses ke semuanya. Tidak ada batasan pengguna. Harga didasarkan pada penyimpanan.
+            
+        - Kekurangan 
+        
 
 
 
